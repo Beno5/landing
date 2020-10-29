@@ -22,3 +22,13 @@
     transition: 0.4s;
    
 }
+
+.github {
+    color: white;
+    opacity: 0.5;
+}
+
+.github:hover {
+    color: #FC8A04;
+    transition: 0.2s;
+}
